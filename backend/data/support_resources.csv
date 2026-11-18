@@ -1,0 +1,13 @@
+id,name,category,city,service_mode,contact,description
+1,AEGIRA Demo Counseling Centre,Counseling,Delhi,Phone,DEMO-001,Confidential counseling and emotional support
+2,AEGIRA Demo Legal Support,Legal Aid,Delhi,In Person,DEMO-002,General legal information and guidance
+3,AEGIRA Demo Medical Support,Medical,Delhi,In Person,DEMO-003,Medical assistance and health support
+4,AEGIRA Demo Safe Shelter,Shelter,Delhi,In Person,DEMO-004,Temporary safe accommodation support
+5,AEGIRA Demo Counseling Centre,Counseling,Roorkee,Phone,DEMO-005,Counseling and emotional support
+6,AEGIRA Demo Legal Support,Legal Aid,Roorkee,Phone,DEMO-006,Legal guidance and support information
+7,AEGIRA Demo Medical Centre,Medical,Roorkee,In Person,DEMO-007,Medical assistance and emergency guidance
+8,AEGIRA Demo Women Support Organisation,Women Support,Roorkee,Online,DEMO-008,General support and resource guidance
+9,AEGIRA Demo Workplace Support,Workplace Support,Delhi,Online,DEMO-009,Guidance for workplace safety concerns
+10,AEGIRA Demo Women Support Organisation,Women Support,Mumbai,Phone,DEMO-010,General safety and support guidance
+11,AEGIRA Demo Counseling Centre,Counseling,Mumbai,Online,DEMO-011,Remote counseling support
+12,AEGIRA Demo Shelter Support,Shelter,Mumbai,In Person,DEMO-012,Temporary accommodation and support
